@@ -1,6 +1,12 @@
 <!-- [![MasterHead](https://github.com/reddevill007/reddevill007/blob/main/banner2__1_-removebg-preview.png)](https://inertiaavercel.app) -->
 
 
+# Hi there, I'm Aman Gupta - AI/ML !!! 👋
+
+- 🌱 I’m currently learning everything 📝
+- 👯 I’m looking to collaborate with other developers 🎥
+- 👨‍💻 Goals: Contribute more to Open Source projects 👨‍💻
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aman_devv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_aman_live) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/imaman-gupta/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/amanguptax_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aman.gupta.devv@gmail.com) 
