@@ -1,5 +1,4 @@
-[![MasterHead](https://github.com/reddevill007/reddevill007/blob/main/banner2__1_-removebg-preview.png
-)](https://inertiaavercel.app)
+<!-- [![MasterHead](https://github.com/reddevill007/reddevill007/blob/main/banner2__1_-removebg-preview.png)](https://inertiaavercel.app) -->
 
 
 
