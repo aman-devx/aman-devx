@@ -1,4 +1,4 @@
-<!-- [![MasterHead](https://github.com/reddevill007/reddevill007/blob/main/banner2__1_-removebg-preview.png)](https://inertiaavercel.app) -->
+[![MasterHead](https://raw.githubusercontent.com/aman-devx/aman-devx/refs/heads/main/Gemini_Generated_Image_gpiy7lgpiy7lgpiy.png)](https://amandgupta.vercel.app/)
 
 
 # Hi there, I'm Aman Gupta - AI/ML !!! 👋
