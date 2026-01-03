@@ -1,7 +1,7 @@
+# Hi there, I'm Aman Gupta - AI/ML !!! 👋
+
 [![MasterHead](https://raw.githubusercontent.com/aman-devx/aman-devx/refs/heads/main/Gemini_Generated_Image_gpiy7lgpiy7lgpiy.png)](https://amandgupta.vercel.app/)
 
-
-# Hi there, I'm Aman Gupta - AI/ML !!! 👋
 
 - 🌱 I’m currently learning everything 📝
 - 👯 I’m looking to collaborate with other developers 🎥
